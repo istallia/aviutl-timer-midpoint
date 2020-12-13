@@ -1,0 +1,3 @@
+[submodule "aviutl_count_timer"]
+	path = aviutl_count_timer
+	url = https://github.com/minfia/aviutl_count_timer.git
